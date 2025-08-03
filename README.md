@@ -1,11 +1,13 @@
 # Bus Safety Risk Analysis Dashboard
 
 ## 📋 Project Overview
-
-This project demonstrates a complete end-to-end data engineering and analytics pipeline for bus safety risk analysis. The solution combines cloud infrastructure (AWS), machine learning (Python), and interactive business intelligence (Tableau) to identify risk factors and enable data-driven safety decisions.
+This project demonstrates how data science can build safer cities. i have demonstrated a complete end-to-end data engineering and analytics pipeline for bus safety risk analysis. The solution combines cloud infrastructure (AWS), machine learning (Python), and interactive business intelligence (Tableau) to identify risk factors and enable data-driven safety decisions.
 
 ### Screenshots
 <img width="1197" height="785" alt="image" src="https://github.com/user-attachments/assets/f6843733-6cb3-433a-b146-e4e3d60a7259" />
+
+### Link 
+https://public.tableau.com/app/profile/r.v.shandilya.p/viz/progress1_17541910482610/BusSafteyDashboard?publish=yes
 
 ### Key Business Metrics
 
